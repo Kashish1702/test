@@ -1,0 +1,35 @@
+Jeans:
+ - Blue jeans (item id - 8892)
+ - Black jeans (item id - 8921)
+ - White jeans (item id - 8933)
+ - Grey jeans (item id - 8954)
+ - Ripped jeans (item id - 8967)
+ - Skinny jeans (item id - 8978)
+ - Straight-leg jeans (item id - 8990)
+
+Shoes:
+ - Running shoes (item id - 7653)
+ - Formal shoes (item id - 7672)
+ - Sneakers (item id - 7689)
+ - Boots (item id - 7701)
+ - Sandals (item id - 7725)
+ - Loafers (item id - 7740)
+ - Slip-on shoes (item id - 7753)
+
+Shirts:
+ - White shirt (item id - 5542)
+ - Blue checked shirt (item id - 5561)
+ - Red plain shirt (item id - 5593)
+ - Black shirt (item id - 5608)
+ - Grey formal shirt (item id - 5619)
+ - Striped shirt (item id - 5634)
+ - Floral shirt (item id - 5650)
+
+Jackets:
+ - Denim jacket (item id - 2010)
+ - Leather jacket (item id - 2025)
+ - Bomber jacket (item id - 2037)
+ - Rain jacket (item id - 2048)
+ - Puffer jacket (item id - 2063)
+ - Windbreaker (item id - 2077)
+ - Blazer jacket (item id - 2091)

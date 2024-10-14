@@ -1,0 +1,91 @@
+Jeans:
+ - Regular Fit
+      - Omega 1R - Bleech  (item id - 8892)
+      - BR-2R Hard (M/T) (item id - 8921)
+      - BR-1R Bleech (item id - 8933)
+      - Omega 1R - Hard (M/T) (item id - 8954)
+      - Omega 1R - Raw (item id - 8967)
+      - Nexson 2R - Black (item id - 8978)
+      - Nexon 2R - Navy Blue (item id - 8990)
+      - BR-2R Bleech (item id - 8993)
+
+ - Brezza
+      - Breeza 15 Smart Fit IBST Jeans - Bleech  (item id - 8892)
+      - Breeza 14 Smart Fit Grey Jeans (item id - 8921)
+      - Breeza 16 Smart Fit IBST Jeans (item id - 8933)
+      - Breeza 15 Smart Fit Indigo Jeans - Hard (M/T) (item id - 8954)
+      - Breeza 16 Smart Fit Grey Jeans (item id - 8967)
+      - Breeza 17 Smart Fit Indigo wash jeans (item id - 8978)
+      - Breeza 17 Smart Fit IBST Jeans (item id - 8990)
+      - Breeza 17 Smart Fit Grey Jeans (item id - 8993)
+      - Breeza 16 Smart Fit Indigo Jeans (item id - 8990)
+      - Breeza 14 Smart Fit IBST Jeans (item id - 8993)
+
+ - Panasonic
+      - Panasonic 02 Smart Fit Bleech Jeans  (item id - 8892)
+      - Panasonic 01 Smart Fit Bleech Jeans (item id - 8921)
+      - Panasonic 03 Smart Fit Bleech Wash Jeans (item id - 8933)
+      - Panasonic 02 Smart Fit Hardwash Jeans(M/T) (item id - 8954)
+      - Panasonic 01 Smart Fit Hardwash Jeans (item id - 8967)
+      - Panasonic 03 Smart Fit Hardwash Jeans (item id - 8978)
+      - Panasonic 01 Smart Fit N. Blue Jeans (item id - 8990)
+
+ - Sonet
+      - Sonet Aqua - Comfort Fit Jeans  (item id - 8892)
+      - Sonet 2 - Comfort Fit Hardwash Jeans (item id - 8921)
+      - Sonet 1 - Comfort Fit Raw wash Jeans (item id - 8933)
+      - Sonet Grey - Comfort Fit Jeans (item id - 8954)
+      - Sonet Black - Comfort Fit Jeans (item id - 8967)
+      - Sonet Comfort Fit Bleechwash Jeans (item id - 8978)
+      - Sonet Light Grey - Comfort Fit Jeans (item id - 8990)
+
+
+Joggers & Cargos:
+ - Cargo
+      - Summer Cool Stretchable Grey Cargo  (item id - 8892)
+      - Summer Cool Stretchable Brown Cargo (item id - 8921)
+      - Summer Cool Stretchable Black Cargo (item id - 8933)
+      - Summer Cool Stretchable Pista Cargo (item id - 8954)
+      - Twill Cargo Pista (item id - 8967)
+      - Twill Cargo Olive - Black (item id - 8978)
+      - Twill Cargo Coffee (item id - 8990)
+      - Twill Cargo Black (item id - 8993)
+      - Twill Cargo Army Green (item id - 8991)
+      - Summer Cool Stretchable Olive Cargo (item id - 8999)
+
+ - Jogger
+      - Summer Cool Black Jogger  (item id - 8892)
+      - Summer Cool Beige Jogger (item id - 8921)
+
+
+Cotton Trousers:
+ - Cotton
+      - Nexson 2-1 Grey (item id - 8892)
+      - Nexson 2/1 - Khakhi(item id - 8921)
+      - Nexson 2/1 - Navy Blue (item id - 8933)
+      - Unique 195 Beige (item id - 8954)
+      - Unique 195 Black (item id - 8967)
+      - Unique 195 N Blue (item id - 8978)
+      - Unique 195 Gray (item id - 8990)
+
+ - Corduroy
+      - ST Cord- Olive Cotrise Pant  (item id - 8892)
+      - ST Cord- Khakhi Cotrise Pant (item id - 8921)
+      - ST Cord- Navy Blue Cotrise Pant (item id - 8933)
+      - ST Cord- Coffee Cotrise Pant (item id - 8954)
+      - ST Cord- Brown Cotrise Pant (item id - 8967)
+      - ST Cord- Black Cotrise Pant (item id - 8978)
+
+ - Chino
+      - Chinos 999 - SPL Grey  (item id - 8892)
+      - Chino 999 - Light Grey (item id - 8921)
+      - Chino 999 - Coffee (item id - 8933)
+      - Chino 999 - Brown
+
+
+Linen:
+ - Linen Olive (item id - 2010)
+ - Linen Pista (item id - 2025)
+ - Linen Light Gray (item id - 2037)
+ - Linen Aqua (item id - 2048)
+ - Linen Black (item id - 2063)

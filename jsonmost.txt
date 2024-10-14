@@ -1,0 +1,285 @@
+{
+    "type": "Jeans",
+    "fit": "Regular Fit",
+    "items": [
+      {
+        "color": "Bleech",
+        "wash": ,
+        "item_name": "Omega 1R - Bleech (item id - 8892)"
+      },
+      {
+        "color": ,
+        "wash": "Hard M/T",
+        "item_name": "BR-2R Hard (M/T) (item id - 8921)"
+      },
+      {
+        "color": ,
+        "wash": Bleech,
+        "item_name": "BR-1R Bleech (item id - 8933)"
+      },
+      {
+        "color": ,
+        "wash": "Hard" "M/T",
+        "item_name": "Omega 1R - Hard (M/T) (item id - 8954)"
+      },
+      {
+        "color": ,
+        "wash": "Raw",
+        "item_name": "Omega 1R - Raw (item id - 8967)"
+      },
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Nexson 2R - Black (item id - 8978)"
+      },
+      {
+        "color": "Navy Blue",
+        "wash": null,
+        "item_name": "Nexon 2R - Navy Blue (item id - 8990)"
+      },
+      {
+        "color": ,
+        "wash": "Bleech",
+        "item_name": "BR-2R Bleech (item id - 8993)"
+      }
+    ]
+  },
+  {
+    "type": "Jeans",
+    "fit": "Smart Fit",
+    "items": [
+      {
+        "color": ,
+        "wash": "Bleech",
+        "item_name": "Breeza 15 Smart Fit IBST Jeans - Bleech (item id - 8892)"
+      },
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Breeza 14 Smart Fit Grey Jeans (item id - 8921)"
+      },
+      {
+        "color": ,
+        "wash": "Bleech",
+        "item_name": "Breeza 16 Smart Fit IBST Jeans (item id - 8933)"
+      },
+      {
+        "color": "Indigo",
+        "wash": "Hard",
+        "item_name": "Breeza 15 Smart Fit Indigo Jeans - Hard (M/T) (item id - 8954)"
+      },
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Breeza 16 Smart Fit Grey Jeans (item id - 8967)"
+      },
+      {
+        "color": "Indigo",
+        "wash": null,
+        "item_name": "Breeza 17 Smart Fit Indigo wash jeans (item id - 8978)"
+      },
+      {
+        "color": ,
+        "wash": "IBST",
+        "item_name": "Breeza 17 Smart Fit IBST Jeans (item id - 8990)"
+      },
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Breeza 17 Smart Fit Grey Jeans (item id - 8993)"
+      }
+    ]
+  },
+  {
+    "type": "Jeans",
+    "fit": "Comfort Fit",
+    "items": [
+      {
+        "color": ,
+        "wash": "Bleechwash",
+        "item_name": "Sonet Comfort Fit Bleechwash Jeans (item id - 8978)"
+      },
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Sonet Black - Comfort Fit Jeans (item id - 8967)"
+      },
+      {
+        "color": "Light Grey",
+        "wash": null,
+        "item_name": "Sonet Light Grey - Comfort Fit Jeans (item id - 8990)"
+      }
+    ]
+  },
+  {
+    "type": "Joggers & Cargos",
+    "fit": "Cargo",
+    "items": [
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Summer Cool Stretchable Grey Cargo (item id - 8892)"
+      },
+      {
+        "color": "Brown",
+        "wash": null,
+        "item_name": "Summer Cool Stretchable Brown Cargo (item id - 8921)"
+      },
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Summer Cool Stretchable Black Cargo (item id - 8933)"
+      },
+      {
+        "color": "Pista",
+        "wash": null,
+        "item_name": "Summer Cool Stretchable Pista Cargo (item id - 8954)"
+      },
+      {
+        "color": "Olive",
+        "wash": null,
+        "item_name": "Summer Cool Stretchable Olive Cargo (item id - 8999)"
+      }
+    ]
+  },
+  {
+    "type": "Joggers & Cargos",
+    "fit": "Jogger",
+    "items": [
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Summer Cool Black Jogger (item id - 8892)"
+      },
+      {
+        "color": "Beige",
+        "wash": null,
+        "item_name": "Summer Cool Beige Jogger (item id - 8921)"
+      }
+    ]
+  },
+  {
+    "type": "Cotton Trousers",
+    "fit": "Cotton",
+    "items": [
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Nexson 2-1 Grey (item id - 8892)"
+      },
+      {
+        "color": "Khakhi",
+        "wash": null,
+        "item_name": "Nexson 2/1 - Khakhi (item id - 8921)"
+      },
+      {
+        "color": "Navy Blue",
+        "wash": null,
+        "item_name": "Nexson 2/1 - Navy Blue (item id - 8933)"
+      },
+      {
+        "color": "Beige",
+        "wash": null,
+        "item_name": "Unique 195 Beige (item id - 8954)"
+      },
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Unique 195 Black (item id - 8967)"
+      },
+      {
+        "color": "N Blue",
+        "wash": null,
+        "item_name": "Unique 195 N Blue (item id - 8978)"
+      },
+      {
+        "color": "Gray",
+        "wash": null,
+        "item_name": "Unique 195 Gray (item id - 8990)"
+      }
+    ]
+  },
+  {
+    "type": "Cotton Trousers",
+    "fit": "Chino",
+    "items": [
+      {
+        "color": "Grey",
+        "wash": null,
+        "item_name": "Chinos 999 - SPL Grey (item id - 8892)"
+      },
+      {
+        "color": "Light Grey",
+        "wash": null,
+        "item_name": "Chino 999 - Light Grey (item id - 8921)"
+      },
+      {
+        "color": "Coffee",
+        "wash": null,
+        "item_name": "Chino 999 - Coffee (item id - 8933)"
+      },
+      {
+        "color": "Brown",
+        "wash": null,
+        "item_name": "Chino 999 - Brown (item id - 8954)"
+      }
+    ]
+  },
+  {
+    "type": "Cotton Trousers",
+    "fit": "Corduroy",
+    "items": [
+      {
+        "color": "Olive",
+        "wash": null,
+        "item_name": "ST Cord- Olive Cotrise Pant (item id - 8892)"
+      },
+      {
+        "color": "Khakhi",
+        "wash": null,
+        "item_name": "ST Cord- Khakhi Cotrise Pant (item id - 8921)"
+      },
+      {
+        "color": "Navy Blue",
+        "wash": null,
+        "item_name": "ST Cord- Navy Blue Cotrise Pant (item id - 8933)"
+      },
+      {
+        "color": "Coffee",
+        "wash": null,
+        "item_name": "ST Cord- Coffee Cotrise Pant (item id - 8954)"
+      }
+    ]
+  },
+  {
+    "type": "Linen",
+    "fit": null,
+    "items": [
+      {
+        "color": "Olive",
+        "wash": null,
+        "item_name": "Linen Olive (item id - 2010)"
+      },
+      {
+        "color": "Pista",
+        "wash": null,
+        "item_name": "Linen Pista (item id - 2025)"
+      },
+      {
+        "color": "Light Gray",
+        "wash": null,
+        "item_name": "Linen Light Gray (item id - 2037)"
+      },
+      {
+        "color": "Aqua",
+        "wash": null,
+        "item_name": "Linen Aqua (item id - 2048)"
+      },
+      {
+        "color": "Black",
+        "wash": null,
+        "item_name": "Linen Black (item id - 2063)"
+      }
+    ]
+}
+
