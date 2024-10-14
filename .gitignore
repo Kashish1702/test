@@ -1,0 +1,5 @@
+.env
+api/
+arshit_db/
+myenv/
+__pycache__/
