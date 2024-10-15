@@ -21,6 +21,7 @@ def upload_to_vector_store(request):
         future = executor.submit(services.load_documents, user, files)
         future.result()
     end_time = time.time()
+    print(hello_world())
     print(f"Time {end_time - start}")
     return JsonResponse({'message': f"Chroma db created for user {user} in time {end_time - start}"})
 
